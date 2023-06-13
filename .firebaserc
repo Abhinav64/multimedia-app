@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "abhinav-multimedia-app",
+    "abhinav-multimedia-bounty": "abhinav-multimedia-app"
+  },
+  "targets": {},
+  "etags": {}
+}
